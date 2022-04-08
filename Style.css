@@ -1,0 +1,52 @@
+#h{
+    display:flex;
+    background-color: red;
+    height: 1000px;
+    width: 1000px; 
+    flex-direction: column;
+    flex-wrap: wrap-reverse;
+}
+#div1{
+    display: flex;
+    background-color: antiquewhite;
+    width: 100px;
+    height: 100px;
+}
+
+#div2{
+    display: flex;
+    background-color:aqua;
+    width: 100px;
+    height: 100px;
+}
+
+#div3{
+    display: flex;
+    background-color:beige;
+    width: 100px;
+    height: 100px;
+}
+#div4{
+    display: flex;
+    background-color: black;
+    width: 100px;
+    height: 100px;
+}
+
+
+#lightbox:visited{
+      width: 100px;
+      height: 100px;
+      
+}
+
+
+
+
+
+
+
+
+
+
+
